@@ -1,3 +1,4 @@
 name: demo9
 runtime: wrong-value-xyz
 version: abc
+entrypoint: wrong-entry-xyz
